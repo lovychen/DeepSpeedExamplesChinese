@@ -4,7 +4,7 @@ This repository contains various examples including training, inference, compres
 ## 1. Applications
 This folder contains end-to-end applications that use DeepSpeed to train and use cutting-edge models.
 
-## 2. Training
+## 2. Training（添加中文训练）
 There are several training and finetuning examples so please see the individual folders for specific instructions.
 
 ## 3. Inference
